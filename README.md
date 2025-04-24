@@ -37,6 +37,8 @@ My name is Aliya. I code to decipher biological questions and to advance medicin
 - MATLAB
 - AWS
 
+### LinkedIn
+https://www.linkedin.com/in/aliya-haas/ 
 
 
 
