@@ -31,7 +31,7 @@ My name is Aliya. I code to decipher biological questions and to advance medicin
 - EchoCardioNet (Heart Disease Machine Learning Classifier)
   https://github.com/aliyaliyuan/ElectroCardioNet
 
-### Currently Learning
+### Skills I am Learning
 - Web Development (including HTML)
 - Software Engineering
 - MATLAB
