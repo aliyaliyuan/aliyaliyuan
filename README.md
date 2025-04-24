@@ -35,7 +35,7 @@ My name is Aliya. I code to decipher biological questions and to advance medicin
 - Web Development (including HTML)
 - Software Engineering
 - MATLAB
-
+- AWS
 
 
 
