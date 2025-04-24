@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Aliya. I code to decipher biological questions and to advance medicine. 
+My name is Aliya. I code to decipher biological questions and to advance medicine. Currently, I am a bioinformatics data analyst. 
 
 ### Skills
 - Java
