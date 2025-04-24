@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome! 👋
 
 <!--
 **aliyaliyuan/aliyaliyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Aliya. I code to decipher biological questions and to advance medicine. 
+
+### Skills
+- Java
+- Python
+- R
+- Command Line
+- SLURM scripts
+- SQL
+
+### Current Projects
+- Protein-Protein Interaction Analysis
+   https://github.com/aliyaliyuan/SpectronautToMiST 
+
+- EchoCardioNet (Heart Disease Machine Learning Classifier)
+  https://github.com/aliyaliyuan/ElectroCardioNet
+
+### Currently Learning
+- Web Development (including HTML)
+- Software Engineering
+- MATLAB
+
+
+
+
+
