@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://makeagif.com/i/QQf5Qa" alt="Banner" width="100%" />
+  <img src="[https://makeagif.com/i/QQf5Qa](https://github.com/aliyaliyuan/aliyaliyuan/blob/main/Red_Blood_Cell_Animation.gif)" alt="Banner" width="100%" />
 </p>
 
 
