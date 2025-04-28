@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aliyaliyuan/blob/main/Red_Blood_Cell_Animation.gif" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/aliyaliyuan/aliyaliyuan/main/Red_Blood_Cell_Animation.gif" alt="Banner" width="100%" />
 </p>
-
-
 
 
 ## Welcome! 
