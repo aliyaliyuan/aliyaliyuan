@@ -26,17 +26,19 @@ My name is Aliya. I code to decipher biological questions and to advance medicin
 - SQL
 
 ### Current Projects
-- Protein-Protein Interaction Analysis
-   https://github.com/aliyaliyuan/SpectronautToMiST 
-
 - EchoCardioNet (Heart Disease Machine Learning Classifier)
   https://github.com/aliyaliyuan/ElectroCardioNet
+
+### Past Projects
+- Protein-Protein Interaction Analysis : identifies stastistically significant protein protein interactions between different conditions
+   https://github.com/aliyaliyuan/SpectronautToMiST
+- PubMedSearch : scrapes relevant articles from PubMed, then pushes them to AirTable, sends a Slack message notification to #pubmedsearch channel
+   Uses API intergration, so will not provide the code with the API keys and table IDs publically
+- RNA-Sequencing Analysis-Informed Proteomics: combines STAR aligner with Multivariate Analysis of Transcript Splicing (MATS) and Junction Centric Alternative Splicing Translator (JCAST) to identify novel alternate splicing events in patients with poor responses to LVAD heart treatment to elucidate the varying effectiveness of LVAD treatment on different patient demographics
 
 ### Skills I am Learning
 - Web Development (including HTML)
 - Software Engineering
-- MATLAB
-- AWS
 
 ### LinkedIn
 https://www.linkedin.com/in/aliya-haas/ 
