@@ -18,12 +18,20 @@ Here are some ideas to get you started:
 My name is Aliya. I code to decipher biological questions and to advance medicine. Currently, I am a Master's of Bioinformatics student at Loyola University Chicago. I am developing a thesis that explores the usage of predictive single-cell liver models and machine learning to discover novel biomarkers and potential therapies for liver disease. 
 
 ### Skills
-- Java
 - Python
 - R
 - Command Line
-- SLURM scripts
+- R
+- SLURM scripts/Cloud Computing
 - SQL
+
+### Thesis Project (in progress) ![Progress](https://img.shields.io/badge/Progress-25%25-brightgreen)
+- PlasmaXcan : predicts genetic expression from single-cell hepatoctye data to decipher the underlying genetic drivers of plasma regulation and liver health
+  https://github.com/aliyaliyuan/PlasmaXcan
+
+### Side Project (in progress) ![Progress](https://img.shields.io/badge/Progress-10%25-brightgreen)
+-ASLingo prototype : Training Google's MediaPipe Hand Landmarker algorithm on mp4 files depicting the ASL alphabet and basic words to create a ML-based 
+ASL learning and translation tool
 
 ### Past Projects
 - Protein-Protein Interaction Analysis : identifies stastistically significant protein protein interactions between different conditions
