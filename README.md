@@ -25,11 +25,12 @@ My name is Aliya. I code to decipher biological questions and to advance medicin
 - SLURM scripts/Cloud Computing
 - SQL
 
-### Thesis Project (in progress) ![Progress](https://img.shields.io/badge/Progress-25%25-brightgreen)
+### Thesis Project ![Progress](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/aliyaliyuan/aliyaliyuan/main/plasmaxcan_progress_bar.json)
+
 - PlasmaXcan : predicts genetic expression from single-cell hepatoctye data to decipher the underlying genetic drivers of plasma regulation and liver health
   https://github.com/aliyaliyuan/PlasmaXcan
 
-### Side Project (in progress) ![Progress](https://img.shields.io/badge/Progress-10%25-brightgreen)
+### Side Project ![Progress](https://img.shields.io/badge/Progress-10%25-brightgreen)
 -ASLingo prototype : Training Google's MediaPipe Hand Landmarker algorithm on mp4 files depicting the ASL alphabet and basic words to create a ML-based 
 ASL learning and translation tool
 
