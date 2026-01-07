@@ -31,7 +31,7 @@ My name is Aliya. I code to decipher biological questions and to advance medicin
   https://github.com/aliyaliyuan/PlasmaXcan
 
 ### Side Project ![Progress](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/aliyaliyuan/aliyaliyuan/main/aslingo_progress_bar.json)
--ASLingo prototype : Training Google's MediaPipe Hand Landmarker algorithm on mp4 files depicting the ASL alphabet and basic words to create a ML-based 
+- ASLingo prototype : Training Google's MediaPipe Hand Landmarker algorithm on mp4 files depicting the ASL alphabet and basic words to create a ML-based 
 ASL learning and translation tool
 
 ### Past Projects
