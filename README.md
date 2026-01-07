@@ -21,7 +21,6 @@ My name is Aliya. I code to decipher biological questions and to advance medicin
 - Python
 - R
 - Command Line
-- R
 - SLURM scripts/Cloud Computing
 - SQL
 
