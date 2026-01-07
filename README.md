@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Aliya. I code to decipher biological questions and to advance medicine. Currently, I am a Master's of Bioinformatics student at Loyola University Chicago. I am developing a thesis that uses ML models to generate predicted genetic expression of single-cell liver models to discover novel biomarkers and potential therapies for liver disease. 
+My name is Aliya. I code to decipher biological questions and to advance medicine. Currently, I am a Master's of Bioinformatics student at Loyola University Chicago. I am developing a thesis that uses ML models to generate  genetic expression predictions of single-cell liver models to discover novel biomarkers and potential therapies for liver disease. 
 
 ### Skills
 - Python
