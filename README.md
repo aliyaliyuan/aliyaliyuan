@@ -33,6 +33,7 @@ My name is Aliya. I code to decipher biological questions and to advance medicin
 ### Passion Project ![Progress](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/aliyaliyuan/aliyaliyuan/main/aslingo_progress_bar.json)
 - ASLingo prototype : Training Google's MediaPipe Hand Landmarker algorithm on mp4 files depicting the ASL alphabet and basic words to create a ML-based 
 ASL learning and translation tool
+https://github.com/aliyaliyuan/ASLingo
 
 ### Past Projects
 - Protein-Protein Interaction Analysis : identifies stastistically significant protein protein interactions between different conditions
