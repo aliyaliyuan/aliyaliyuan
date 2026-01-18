@@ -21,7 +21,8 @@ My name is Aliya. I code and ML techniques to decipher biological questions and 
 - Python
 - R
 - Command Line
-- SLURM scripts/Cloud Computing
+- SLURM
+- High-Performance Cloud Computing (HPC)
 - Java
 - SQL
 - Linux
