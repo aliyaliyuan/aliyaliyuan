@@ -24,6 +24,7 @@ My name is Aliya. I code to decipher biological questions and to advance medicin
 - SLURM scripts/Cloud Computing
 - Java
 - SQL
+- Linux
 
 ### Thesis Project ![Progress](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/aliyaliyuan/aliyaliyuan/main/plasmaxcan_progress_bar.json)
 
