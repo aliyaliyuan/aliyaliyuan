@@ -44,8 +44,9 @@ https://github.com/aliyaliyuan/ASLingo
 - RNA-Sequencing Analysis-Informed Proteomics: combines STAR aligner with Multivariate Analysis of Transcript Splicing (MATS) and Junction Centric Alternative Splicing Translator (JCAST) to identify novel alternate splicing events in patients with poor responses to LVAD heart treatment to elucidate the varying effectiveness of LVAD treatment on different patient demographics
 
 ### Skills in Development
-- Web Development (WordPress, HTML)
-- Software Engineering
+- Front-end development (HTML, CSS, JS, React)
+- Docker
+- MERN Stack
 
 ### LinkedIn
 https://www.linkedin.com/in/aliya-haas/ 
