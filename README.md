@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Aliya. I code and ML techniques to decipher biological questions and to advance medicine. Currently, I am a Master's of Bioinformatics student at Loyola University Chicago. My research uses machine learning and deep learning to find novel biomarkers in the blood plasma. These findings will influence precision medicine treatments. In my spare time, I am developing an ASL learning app that uses ML to help the user gain the confidence to learn and communicate with people fluent in ASL. It integrates flashcards, interactive mini-games, and live camera recognition. 
+My name is Aliya. I code and use ML to decipher biological questions and to advance medicine. Currently, I am a Master's of Bioinformatics student at Loyola University Chicago. My research uses machine learning and deep learning to find novel biomarkers in the blood plasma. These findings will influence precision medicine treatments. In my spare time, I am developing an ASL learning app that uses ML to help the user gain the confidence to learn and communicate with people fluent in ASL. It integrates flashcards, interactive mini-games, and live camera recognition. 
 
 ### Skills
 - Python
