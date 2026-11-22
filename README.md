@@ -38,7 +38,7 @@ https://github.com/aliyaliyuan/ASLingo
 ### Past Projects
 - PlasmaXcan : predicts genetic expression from single-cell liver cell data to decipher the underlying genetic drivers of plasma regulation and liver health
   https://github.com/aliyaliyuan/PlasmaXcan
-- RNA-Sequencing Analysis-Informed Proteomics: combines STAR aligner with Multivariate Analysis of Transcript Splicing (MATS) and Junction Centric Alternative Splicing Translator (JCAST) to identify novel alternate splicing events in patients with poor responses to LVAD heart treatment to elucidate the varying effectiveness of LVAD treatment on different patient demographics
+- RNA-Sequencing Analysis-Informed Proteomics: combines STAR aligner with Multivariate Analysis of Transcript Splicing (MATS) and Junction Centric Alternative Splicing Translator (JCAST) to identify novel alternate splicing events in patients with poor responses to LVAD heart treatment to elucidate the varying effectiveness of LVAD treatment on different patient demographics https://github.com/aliyaliyuan/JCAST-HF
 - PubMedSearch : scrapes relevant articles from PubMed, then pushes them to AirTable, sends a Slack message notification to #pubmedsearch channel (integrates PubMed, AirTable, and Slackbot APIs)
   https://github.com/aliyaliyuan/PubMedSearch
 - Protein-Protein Interaction Analysis : identifies stastistically significant protein protein interactions between different conditions
