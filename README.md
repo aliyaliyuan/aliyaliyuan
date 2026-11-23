@@ -44,6 +44,9 @@ https://github.com/aliyaliyuan/ASLingo
 - Protein-Protein Interaction Analysis : identifies stastistically significant protein protein interactions between different conditions
    https://github.com/aliyaliyuan/SpectronautToMiST
 
+### Website
+https://aliyaliyuan.github.io/ 
+
 ### LinkedIn
 https://www.linkedin.com/in/aliya-haas/ 
 
